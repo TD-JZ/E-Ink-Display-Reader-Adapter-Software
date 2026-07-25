@@ -23,3 +23,10 @@ BUG提交和修复为“陌生人数码”售后群内的使用反馈
 V2.4.X版本更新预览：
 
             还没想好
+
+看图猜迷环节：
+
+<img width="640" height="640" alt="b_5dec5e206f9794aa038b3339af37fe6b" src="https://github.com/user-attachments/assets/2ed4069d-ba39-4c37-b64d-132373134fcc" />
+
+看这张图，猜两个字的人物网名
+
